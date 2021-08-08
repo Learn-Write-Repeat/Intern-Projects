@@ -25,7 +25,7 @@ his project helps
 * Recommend based on different modalities(User feedback, Text,Audio..etc).
 
 ## *Flow Chart*
-![flowchart.png](https://github.com/DeekshithaKusupati/content/blob/main/flowchart.png)
+![flowchart.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/Music%20Recommendation/Images/flowchart.png)
 
 ## *Ideas for Recommendation*
 
@@ -38,7 +38,7 @@ his project helps
 #### *II.Personalized Recommenders*
 * Collaborative Filtering
 * Content Based Filtering
-![personalized recommender.png](https://github.com/DeekshithaKusupati/content/blob/main/personalized%20recommender.png)
+![personalized recommender.png](https://github.com/DeekshithaKusupati/Intern-Work/blob/main/int-ml-3/Music%20Recommendation/Images/personalized%20recommender.png)
 
 #### *1.Collaborative Filtering*
 Item-item filtering approach involves defining a co-occurrence matrix based on a song a user likes. We are seeking to answer a question, for each song, what a number of time a user, who have listened to that song, will also listen to another set of other songs. To further simplify this, based on what you like in the past, what other similar song that you will like based on what other similar user have liked. Let’s apply this to our code. First we create an instance item similarity based recommender class and feed it with our training data.
@@ -57,15 +57,20 @@ Recommendations done using content-based recommenders can be seen as a user-spec
 
 ### This repo is divided into the following two packages that contains the following files:
 
-#### I. Content-based recommendation system:
+#### I. Popularity-based recommendation system:
 
-a. A jupyter notebook named ```content_based_music_recommender``` that contains the code and analysis for the recommedation system.
-b. A CSV file named ```abcdata``` and ```song_data``` containing the data for the songs used in the system.
+a. A jupyter notebook named ```Popularity``` that contains the code and analysis for the recommedation system.  
+b. A CSV file named ```song_data``` and text file named ```million_song``` containing the data for the songs used in the system.
 
-#### II. Collaborative recommendation system:
+#### II. Content-based recommendation system:
 
-a. A jupyter notebook named ```collaborative_based_music_recommender``` that contains the code and analysis for the recommedation system.
-b. A CSV file named ```song_data``` containing the data for the songs used in the system.
+a. A jupyter notebook named ```content_based``` and ```content_based_artist_names``` that contains the code and analysis for the recommedation system.  
+b. A CSV file named ```abcdata``` for content based and  CSV file named ```song_data``` and text file named ```million_song``` for content based artist names are containing the data for the songs used in the system.
+
+#### III. Collaborative recommendation system:
+
+a. A jupyter notebook named ```collaborative``` that contains the code and analysis for the recommedation system.  
+b. A CSV file named ```song_data``` and text file named ```million_song``` containing the data for the songs used in the system.
 
 
 
