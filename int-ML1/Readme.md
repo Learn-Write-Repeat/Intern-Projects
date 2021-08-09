@@ -19,7 +19,7 @@
 ## Project Interface
 Link : https://parkinsondiseasepredictor.herokuapp.com/
 
-![Interface](https://github.com/Hemachandirant/Intern-Projects/blob/main/int-ML1/Screenshot%20(119).png?raw=true)
+![Interface](https://github.com/Hemachandirant/Intern-Projects/blob/main/int-ML1/Parkinson's%20disease%20Prediction/Screenshot%20(119).png?raw=true)
 
 ## Technologies Used
 <pre> 
