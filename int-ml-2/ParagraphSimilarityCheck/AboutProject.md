@@ -31,9 +31,7 @@ We removed our stop  words, extracted features , encoded them then tried to meas
 
 We would get the output like in the image shown above.
 # How to RUN the project
-1.	Make a new folder named 'templates' inside the project directory, after downloading the project folder.
-2.	Move the 'upload.html' file from project directory to 'templates' folder.
-3.	Install the python packages as mentioned in the 'dependencies.txt' file.
-4.	Now run the 'main.py' file.
-5.	Input two paragraphs which are needed to be compared and click on 'Upload' button.
-6.	Score will be generated, based on number of keywords which are same for both paragraphs, based on list of top 5 keywords of each paragraph
+1.	Install the python packages as mentioned in the 'dependencies.txt' file.
+2.	Now run the 'main.py' file.
+3.	Input two paragraphs which are needed to be compared and click on 'Upload' button.
+4.	Score will be generated, based on number of keywords which are same for both paragraphs, based on list of top 5 keywords of each paragraph
