@@ -35,7 +35,7 @@ Link : https://parkinsondiseasepredictor.herokuapp.com/
   ||Name|
    |-|-|
    |1|[Hemachandiran.T]()|
-   |2|Shivansh]()|
+   |2|[Shivansh]()|
    |2|[Nishi Sus]()|
 
    - Work flow :bookmark_tabs:
