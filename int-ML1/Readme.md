@@ -30,7 +30,9 @@ Link : https://parkinsondiseasepredictor.herokuapp.com/
 5. Css
 6. Pandas, Numpy 
 
-   ||Name|
+
+</pre>
+    ||Name|
      |-|-|
      |1|[Hemachandiran.T]()|
      |2|Shivansh]()|
@@ -40,4 +42,3 @@ Link : https://parkinsondiseasepredictor.herokuapp.com/
     - [Hemachandiran.T]() : Worked on Markdown,Model building and making PR requests.
     - [Shivansh]() : Worked on ML Model deplyment.
     - [Nishi Sus]() : Worked on Video part.
-</pre>
