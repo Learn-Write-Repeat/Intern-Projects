@@ -4,6 +4,8 @@ The project focuses on predicting the income range based on some parameters
 which are not based on skills rather than background and environment Even though 
 the person is working the results can provide a lot of insights.
 
+![](https://github.com/Sara-cos/Intern-Projects/blob/main/int%20ml-5/Income-Prediction/static/Retrain%20Model.jpg)
+
 ​
 Whoever apply for a job or the new candidates or even any person who is 
 curious to know the range of income possibilities regardless of the skills did not get the idea of the 
